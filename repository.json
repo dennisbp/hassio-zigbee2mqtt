@@ -1,8 +1,0 @@
-{
-  "name": "Dennis Zigbee2MQTT Repo",
-  "url": "https://github.com/dennisbp/hassio-zigbee2mqtt",
-  "maintainer": "Dennis",
-  "addons": [
-    "zigbee2mqtt_dennis"
-  ]
-}
