@@ -1,7 +1,7 @@
 {
   "name": "Zigbee2MQTT-Dennis",
   "version": "1.42.0-custom1",
-  "slug": "zigbee2mqtt-dennis",
+  "slug": "zigbee2mqtt_dennis",
   "url": "https://github.com/dennisbp/hassio-zigbee2mqtt",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "breaking_versions": [
