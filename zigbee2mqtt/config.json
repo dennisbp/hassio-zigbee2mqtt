@@ -89,5 +89,5 @@
     "watchdog": "str?",
     "force_onboarding": "bool?"
   },
-  "image": "ghcr.io/zigbee2mqtt/zigbee2mqtt-{arch}"
+  "image": "koenkk/zigbee2mqtt:1.42.0"
 }
